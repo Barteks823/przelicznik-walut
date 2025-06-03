@@ -16,5 +16,5 @@ python currency_converter.py
 4. Podaj kwotę w PLN oraz aktualne kursy walut. Powtarzaj, aż wpiszesz `q`, aby zakończyć.
 
 ## Autor
-Imię i nazwisko: **[TU WPISZ SWOJE IMIĘ I NAZWISKO]**  
-Grupa: **[NP. RPiS 2/5]**
+Imię i nazwisko:Bartłomiej Świerżewski
+Grupa: Informatyka Stosowana
