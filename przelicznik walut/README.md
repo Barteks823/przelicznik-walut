@@ -1,4 +1,4 @@
-# Przelicznik walut - aplikacja w Pythonie (wersja rozszerzona)
+# Przelicznik walut - aplikacja w Pythonie 
 
 ## Opis
 Ten projekt to rozbudowany przelicznik walut z PLN na EUR, USD i GBP. Użytkownik wpisuje aktualne kursy oraz kwotę w PLN, a program przelicza waluty. Można powtarzać operacje do woli.
